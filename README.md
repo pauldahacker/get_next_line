@@ -1,4 +1,4 @@
-**get_next_line is part of the first milestone of the 42 Common Core**
+**get_next_line is part of the first milestone of the 42 Common Core.**
 
 The PDF of the original subject is attached.
 
